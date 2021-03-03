@@ -1,0 +1,219 @@
+2021-02-01 11:00:05,462: INFO: PytestsDemo.test_logs: Information statement
+2021-02-01 11:00:05,462: ERROR: PytestsDemo.test_logs: error
+2021-02-01 11:00:05,462: WARNING: PytestsDemo.test_logs: Something is in warning mode
+2021-02-01 11:00:05,462: CRITICAL: PytestsDemo.test_logs: Critical issue
+2021-02-01 11:03:53,617: DEBUG: PytestsDemo.test_logs: A debug statement is executed
+2021-02-01 11:03:53,617: INFO: PytestsDemo.test_logs: Information statement
+2021-02-01 11:03:53,617: ERROR: PytestsDemo.test_logs: error
+2021-02-01 11:03:53,617: WARNING: PytestsDemo.test_logs: Something is in warning mode
+2021-02-01 11:03:53,617: CRITICAL: PytestsDemo.test_logs: Critical issue
+2021-02-01 16:29:01,734: DEBUG: PytestsDemo.BaseClass: A debug statement is executed
+2021-02-01 16:29:01,736: INFO: PytestsDemo.BaseClass: Information statement
+2021-02-01 16:29:01,736: ERROR: PytestsDemo.BaseClass: error
+2021-02-01 16:29:01,737: WARNING: PytestsDemo.BaseClass: Something is in warning mode
+2021-02-01 16:29:01,742: CRITICAL: PytestsDemo.BaseClass: Critical issue
+2021-02-01 16:29:01,749: DEBUG: PytestsDemo.BaseClass: A debug statement is executed
+2021-02-01 16:29:01,749: DEBUG: PytestsDemo.BaseClass: A debug statement is executed
+2021-02-01 16:29:01,750: INFO: PytestsDemo.BaseClass: Information statement
+2021-02-01 16:29:01,750: INFO: PytestsDemo.BaseClass: Information statement
+2021-02-01 16:29:01,750: ERROR: PytestsDemo.BaseClass: error
+2021-02-01 16:29:01,750: ERROR: PytestsDemo.BaseClass: error
+2021-02-01 16:29:01,750: WARNING: PytestsDemo.BaseClass: Something is in warning mode
+2021-02-01 16:29:01,750: WARNING: PytestsDemo.BaseClass: Something is in warning mode
+2021-02-01 16:29:01,750: CRITICAL: PytestsDemo.BaseClass: Critical issue
+2021-02-01 16:29:01,750: CRITICAL: PytestsDemo.BaseClass: Critical issue
+2021-02-01 16:29:01,750: INFO: PytestsDemo.BaseClass: ['pramod', 'reddy', 'automechanize.com']
+2021-02-01 16:29:01,750: INFO: PytestsDemo.BaseClass: ['pramod', 'reddy', 'automechanize.com']
+2021-02-01 16:29:01,751: INFO: PytestsDemo.BaseClass: pramod
+2021-02-01 16:29:01,751: INFO: PytestsDemo.BaseClass: pramod
+2021-02-01 16:29:01,751: INFO: PytestsDemo.BaseClass: reddy
+2021-02-01 16:29:01,751: INFO: PytestsDemo.BaseClass: reddy
+2021-02-02 12:59:20,262: DEBUG: PytestsDemo.BaseClass: A debug statement is executed
+2021-02-02 12:59:20,274: INFO: PytestsDemo.BaseClass: Information statement
+2021-02-02 12:59:20,274: ERROR: PytestsDemo.BaseClass: error
+2021-02-02 12:59:20,274: WARNING: PytestsDemo.BaseClass: Something is in warning mode
+2021-02-02 12:59:20,274: CRITICAL: PytestsDemo.BaseClass: Critical issue
+2021-02-02 12:59:20,294: DEBUG: PytestsDemo.BaseClass: A debug statement is executed
+2021-02-02 12:59:20,294: DEBUG: PytestsDemo.BaseClass: A debug statement is executed
+2021-02-02 12:59:20,294: INFO: PytestsDemo.BaseClass: Information statement
+2021-02-02 12:59:20,294: INFO: PytestsDemo.BaseClass: Information statement
+2021-02-02 12:59:20,294: ERROR: PytestsDemo.BaseClass: error
+2021-02-02 12:59:20,294: ERROR: PytestsDemo.BaseClass: error
+2021-02-02 12:59:20,294: WARNING: PytestsDemo.BaseClass: Something is in warning mode
+2021-02-02 12:59:20,294: WARNING: PytestsDemo.BaseClass: Something is in warning mode
+2021-02-02 12:59:20,294: CRITICAL: PytestsDemo.BaseClass: Critical issue
+2021-02-02 12:59:20,294: CRITICAL: PytestsDemo.BaseClass: Critical issue
+2021-02-02 12:59:20,294: INFO: PytestsDemo.BaseClass: ['pramod', 'reddy', 'automechanize.com']
+2021-02-02 12:59:20,294: INFO: PytestsDemo.BaseClass: ['pramod', 'reddy', 'automechanize.com']
+2021-02-02 12:59:20,294: INFO: PytestsDemo.BaseClass: pramod
+2021-02-02 12:59:20,294: INFO: PytestsDemo.BaseClass: pramod
+2021-02-02 12:59:20,294: INFO: PytestsDemo.BaseClass: reddy
+2021-02-02 12:59:20,294: INFO: PytestsDemo.BaseClass: reddy
+2021-02-02 13:11:05,352: DEBUG: PytestsDemo.BaseClass: A debug statement is executed
+2021-02-02 13:11:05,352: INFO: PytestsDemo.BaseClass: Information statement
+2021-02-02 13:11:05,352: ERROR: PytestsDemo.BaseClass: error
+2021-02-02 13:11:05,352: WARNING: PytestsDemo.BaseClass: Something is in warning mode
+2021-02-02 13:11:05,352: CRITICAL: PytestsDemo.BaseClass: Critical issue
+2021-02-02 13:11:05,368: DEBUG: PytestsDemo.BaseClass: A debug statement is executed
+2021-02-02 13:11:05,368: DEBUG: PytestsDemo.BaseClass: A debug statement is executed
+2021-02-02 13:11:05,368: INFO: PytestsDemo.BaseClass: Information statement
+2021-02-02 13:11:05,368: INFO: PytestsDemo.BaseClass: Information statement
+2021-02-02 13:11:05,368: ERROR: PytestsDemo.BaseClass: error
+2021-02-02 13:11:05,368: ERROR: PytestsDemo.BaseClass: error
+2021-02-02 13:11:05,368: WARNING: PytestsDemo.BaseClass: Something is in warning mode
+2021-02-02 13:11:05,368: WARNING: PytestsDemo.BaseClass: Something is in warning mode
+2021-02-02 13:11:05,368: CRITICAL: PytestsDemo.BaseClass: Critical issue
+2021-02-02 13:11:05,368: CRITICAL: PytestsDemo.BaseClass: Critical issue
+2021-02-02 13:11:05,368: INFO: PytestsDemo.BaseClass: ['pramod', 'reddy', 'automechanize.com']
+2021-02-02 13:11:05,368: INFO: PytestsDemo.BaseClass: ['pramod', 'reddy', 'automechanize.com']
+2021-02-02 13:11:05,368: INFO: PytestsDemo.BaseClass: pramod
+2021-02-02 13:11:05,368: INFO: PytestsDemo.BaseClass: pramod
+2021-02-02 13:11:05,368: INFO: PytestsDemo.BaseClass: reddy
+2021-02-02 13:11:05,368: INFO: PytestsDemo.BaseClass: reddy
+2021-02-02 13:12:22,302: DEBUG: PytestsDemo.BaseClass: A debug statement is executed
+2021-02-02 13:12:22,302: INFO: PytestsDemo.BaseClass: Information statement
+2021-02-02 13:12:22,302: ERROR: PytestsDemo.BaseClass: error
+2021-02-02 13:12:22,302: WARNING: PytestsDemo.BaseClass: Something is in warning mode
+2021-02-02 13:12:22,302: CRITICAL: PytestsDemo.BaseClass: Critical issue
+2021-02-02 13:12:22,302: DEBUG: PytestsDemo.BaseClass: A debug statement is executed
+2021-02-02 13:12:22,302: DEBUG: PytestsDemo.BaseClass: A debug statement is executed
+2021-02-02 13:12:22,302: INFO: PytestsDemo.BaseClass: Information statement
+2021-02-02 13:12:22,302: INFO: PytestsDemo.BaseClass: Information statement
+2021-02-02 13:12:22,302: ERROR: PytestsDemo.BaseClass: error
+2021-02-02 13:12:22,302: ERROR: PytestsDemo.BaseClass: error
+2021-02-02 13:12:22,302: WARNING: PytestsDemo.BaseClass: Something is in warning mode
+2021-02-02 13:12:22,302: WARNING: PytestsDemo.BaseClass: Something is in warning mode
+2021-02-02 13:12:22,302: CRITICAL: PytestsDemo.BaseClass: Critical issue
+2021-02-02 13:12:22,302: CRITICAL: PytestsDemo.BaseClass: Critical issue
+2021-02-02 13:12:22,302: INFO: PytestsDemo.BaseClass: ['pramod', 'reddy', 'automechanize.com']
+2021-02-02 13:12:22,302: INFO: PytestsDemo.BaseClass: ['pramod', 'reddy', 'automechanize.com']
+2021-02-02 13:12:22,302: INFO: PytestsDemo.BaseClass: pramod
+2021-02-02 13:12:22,302: INFO: PytestsDemo.BaseClass: pramod
+2021-02-02 13:12:22,302: INFO: PytestsDemo.BaseClass: reddy
+2021-02-02 13:12:22,302: INFO: PytestsDemo.BaseClass: reddy
+2021-02-02 13:12:38,359: DEBUG: PytestsDemo.BaseClass: A debug statement is executed
+2021-02-02 13:12:38,359: INFO: PytestsDemo.BaseClass: Information statement
+2021-02-02 13:12:38,359: ERROR: PytestsDemo.BaseClass: error
+2021-02-02 13:12:38,359: WARNING: PytestsDemo.BaseClass: Something is in warning mode
+2021-02-02 13:12:38,359: CRITICAL: PytestsDemo.BaseClass: Critical issue
+2021-02-02 13:12:38,375: DEBUG: PytestsDemo.BaseClass: A debug statement is executed
+2021-02-02 13:12:38,375: DEBUG: PytestsDemo.BaseClass: A debug statement is executed
+2021-02-02 13:12:38,375: INFO: PytestsDemo.BaseClass: Information statement
+2021-02-02 13:12:38,375: INFO: PytestsDemo.BaseClass: Information statement
+2021-02-02 13:12:38,375: ERROR: PytestsDemo.BaseClass: error
+2021-02-02 13:12:38,375: ERROR: PytestsDemo.BaseClass: error
+2021-02-02 13:12:38,375: WARNING: PytestsDemo.BaseClass: Something is in warning mode
+2021-02-02 13:12:38,375: WARNING: PytestsDemo.BaseClass: Something is in warning mode
+2021-02-02 13:12:38,375: CRITICAL: PytestsDemo.BaseClass: Critical issue
+2021-02-02 13:12:38,375: CRITICAL: PytestsDemo.BaseClass: Critical issue
+2021-02-02 13:12:38,375: INFO: PytestsDemo.BaseClass: ['pramod', 'reddy', 'automechanize.com']
+2021-02-02 13:12:38,375: INFO: PytestsDemo.BaseClass: ['pramod', 'reddy', 'automechanize.com']
+2021-02-02 13:12:38,375: INFO: PytestsDemo.BaseClass: pramod
+2021-02-02 13:12:38,375: INFO: PytestsDemo.BaseClass: pramod
+2021-02-02 13:12:38,375: INFO: PytestsDemo.BaseClass: reddy
+2021-02-02 13:12:38,375: INFO: PytestsDemo.BaseClass: reddy
+2021-02-02 13:29:59,723: DEBUG: PytestsDemo.BaseClass: A debug statement is executed
+2021-02-02 13:29:59,723: INFO: PytestsDemo.BaseClass: Information statement
+2021-02-02 13:29:59,723: ERROR: PytestsDemo.BaseClass: error
+2021-02-02 13:29:59,723: WARNING: PytestsDemo.BaseClass: Something is in warning mode
+2021-02-02 13:29:59,723: CRITICAL: PytestsDemo.BaseClass: Critical issue
+2021-02-02 13:29:59,723: DEBUG: PytestsDemo.BaseClass: A debug statement is executed
+2021-02-02 13:29:59,723: DEBUG: PytestsDemo.BaseClass: A debug statement is executed
+2021-02-02 13:29:59,723: INFO: PytestsDemo.BaseClass: Information statement
+2021-02-02 13:29:59,723: INFO: PytestsDemo.BaseClass: Information statement
+2021-02-02 13:29:59,723: ERROR: PytestsDemo.BaseClass: error
+2021-02-02 13:29:59,723: ERROR: PytestsDemo.BaseClass: error
+2021-02-02 13:29:59,723: WARNING: PytestsDemo.BaseClass: Something is in warning mode
+2021-02-02 13:29:59,723: WARNING: PytestsDemo.BaseClass: Something is in warning mode
+2021-02-02 13:29:59,723: CRITICAL: PytestsDemo.BaseClass: Critical issue
+2021-02-02 13:29:59,723: CRITICAL: PytestsDemo.BaseClass: Critical issue
+2021-02-02 13:29:59,723: INFO: PytestsDemo.BaseClass: ['pramod', 'reddy', 'automechanize.com']
+2021-02-02 13:29:59,723: INFO: PytestsDemo.BaseClass: ['pramod', 'reddy', 'automechanize.com']
+2021-02-02 13:29:59,723: INFO: PytestsDemo.BaseClass: pramod
+2021-02-02 13:29:59,723: INFO: PytestsDemo.BaseClass: pramod
+2021-02-02 13:29:59,723: INFO: PytestsDemo.BaseClass: reddy
+2021-02-02 13:29:59,723: INFO: PytestsDemo.BaseClass: reddy
+2021-02-02 13:31:27,736: DEBUG: pytest_pyfunc_call: A debug statement is executed
+2021-02-02 13:31:27,736: INFO: pytest_pyfunc_call: Information statement
+2021-02-02 13:31:27,736: ERROR: pytest_pyfunc_call: error
+2021-02-02 13:31:27,736: WARNING: pytest_pyfunc_call: Something is in warning mode
+2021-02-02 13:31:27,736: CRITICAL: pytest_pyfunc_call: Critical issue
+2021-02-02 13:31:27,736: DEBUG: test_editprofile: A debug statement is executed
+2021-02-02 13:31:27,736: INFO: test_editprofile: Information statement
+2021-02-02 13:31:27,736: ERROR: test_editprofile: error
+2021-02-02 13:31:27,752: WARNING: test_editprofile: Something is in warning mode
+2021-02-02 13:31:27,752: CRITICAL: test_editprofile: Critical issue
+2021-02-02 13:31:27,752: INFO: test_editprofile: ['pramod', 'reddy', 'automechanize.com']
+2021-02-02 13:31:27,752: INFO: test_editprofile: pramod
+2021-02-02 13:31:27,752: INFO: test_editprofile: reddy
+2021-02-02 13:31:59,285: DEBUG: _multicall: A debug statement is executed
+2021-02-02 13:31:59,285: INFO: _multicall: Information statement
+2021-02-02 13:31:59,285: ERROR: _multicall: error
+2021-02-02 13:31:59,285: WARNING: _multicall: Something is in warning mode
+2021-02-02 13:31:59,285: CRITICAL: _multicall: Critical issue
+2021-02-02 13:31:59,301: DEBUG: pytest_pyfunc_call: A debug statement is executed
+2021-02-02 13:31:59,301: INFO: pytest_pyfunc_call: Information statement
+2021-02-02 13:31:59,301: ERROR: pytest_pyfunc_call: error
+2021-02-02 13:31:59,301: WARNING: pytest_pyfunc_call: Something is in warning mode
+2021-02-02 13:31:59,301: CRITICAL: pytest_pyfunc_call: Critical issue
+2021-02-02 13:31:59,301: INFO: pytest_pyfunc_call: ['pramod', 'reddy', 'automechanize.com']
+2021-02-02 13:31:59,301: INFO: pytest_pyfunc_call: pramod
+2021-02-02 13:31:59,301: INFO: pytest_pyfunc_call: reddy
+2021-02-02 13:34:42,775: DEBUG: C:\Users\colle\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\python.py: A debug statement is executed
+2021-02-02 13:34:42,775: INFO: C:\Users\colle\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\python.py: Information statement
+2021-02-02 13:34:42,775: ERROR: C:\Users\colle\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\python.py: error
+2021-02-02 13:34:42,775: WARNING: C:\Users\colle\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\python.py: Something is in warning mode
+2021-02-02 13:34:42,775: CRITICAL: C:\Users\colle\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\python.py: Critical issue
+2021-02-02 13:34:42,775: DEBUG: C:\Users\colle\PycharmProjects\pythonProject6\PytestsDemo\test_fixturesData.py: A debug statement is executed
+2021-02-02 13:34:42,775: INFO: C:\Users\colle\PycharmProjects\pythonProject6\PytestsDemo\test_fixturesData.py: Information statement
+2021-02-02 13:34:42,775: ERROR: C:\Users\colle\PycharmProjects\pythonProject6\PytestsDemo\test_fixturesData.py: error
+2021-02-02 13:34:42,775: WARNING: C:\Users\colle\PycharmProjects\pythonProject6\PytestsDemo\test_fixturesData.py: Something is in warning mode
+2021-02-02 13:34:42,775: CRITICAL: C:\Users\colle\PycharmProjects\pythonProject6\PytestsDemo\test_fixturesData.py: Critical issue
+2021-02-02 13:34:42,775: INFO: C:\Users\colle\PycharmProjects\pythonProject6\PytestsDemo\test_fixturesData.py: ['pramod', 'reddy', 'automechanize.com']
+2021-02-02 13:34:42,775: INFO: C:\Users\colle\PycharmProjects\pythonProject6\PytestsDemo\test_fixturesData.py: pramod
+2021-02-02 13:34:42,775: INFO: C:\Users\colle\PycharmProjects\pythonProject6\PytestsDemo\test_fixturesData.py: reddy
+2021-02-02 13:35:06,399: DEBUG: C:\Users\colle\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\python.py: A debug statement is executed
+2021-02-02 13:35:06,399: INFO: C:\Users\colle\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\python.py: Information statement
+2021-02-02 13:35:06,399: ERROR: C:\Users\colle\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\python.py: error
+2021-02-02 13:35:06,399: WARNING: C:\Users\colle\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\python.py: Something is in warning mode
+2021-02-02 13:35:06,399: CRITICAL: C:\Users\colle\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\python.py: Critical issue
+2021-02-02 13:35:06,399: DEBUG: C:\Users\colle\PycharmProjects\pythonProject6\PytestsDemo\test_fixturesData.py: A debug statement is executed
+2021-02-02 13:35:06,399: INFO: C:\Users\colle\PycharmProjects\pythonProject6\PytestsDemo\test_fixturesData.py: Information statement
+2021-02-02 13:35:06,399: ERROR: C:\Users\colle\PycharmProjects\pythonProject6\PytestsDemo\test_fixturesData.py: error
+2021-02-02 13:35:06,399: WARNING: C:\Users\colle\PycharmProjects\pythonProject6\PytestsDemo\test_fixturesData.py: Something is in warning mode
+2021-02-02 13:35:06,399: CRITICAL: C:\Users\colle\PycharmProjects\pythonProject6\PytestsDemo\test_fixturesData.py: Critical issue
+2021-02-02 13:35:06,399: INFO: C:\Users\colle\PycharmProjects\pythonProject6\PytestsDemo\test_fixturesData.py: ['pramod', 'reddy', 'automechanize.com']
+2021-02-02 13:35:06,399: INFO: C:\Users\colle\PycharmProjects\pythonProject6\PytestsDemo\test_fixturesData.py: pramod
+2021-02-02 13:35:06,399: INFO: C:\Users\colle\PycharmProjects\pythonProject6\PytestsDemo\test_fixturesData.py: reddy
+2021-02-02 14:31:23,254: INFO: __main__: Information statement
+2021-02-02 14:31:23,254: ERROR: __main__: 
+2021-02-02 14:31:23,254: WARNING: __main__: Something is in warning mode
+2021-02-02 14:31:23,254: CRITICAL: __main__: Critical issue
+2021-02-02 14:31:23,254: INFO: __main__: Information
+2021-02-02 14:31:23,254: WARNING: __main__: something is in warning mode
+2021-02-02 14:31:23,254: ERROR: __main__: An error has occured
+2021-02-02 14:31:23,255: CRITICAL: __main__: Critical issue
+2021-02-02 14:31:23,255: INFO: __main__: Information
+2021-02-02 14:31:23,255: INFO: __main__: Information
+2021-02-02 14:31:23,255: WARNING: __main__: something is in warning mode
+2021-02-02 14:31:23,255: WARNING: __main__: something is in warning mode
+2021-02-02 14:31:23,255: ERROR: __main__: An error has occured
+2021-02-02 14:31:23,255: ERROR: __main__: An error has occured
+2021-02-02 14:31:23,255: CRITICAL: __main__: Critical issue
+2021-02-02 14:31:23,255: CRITICAL: __main__: Critical issue
+2021-02-02 14:32:08,036: INFO: __main__: Information statement
+2021-02-02 14:32:08,036: ERROR: __main__: 
+2021-02-02 14:32:08,036: WARNING: __main__: Something is in warning mode
+2021-02-02 14:32:08,036: CRITICAL: __main__: Critical issue
+2021-02-02 14:32:08,036: INFO: __main__: Information
+2021-02-02 14:32:08,037: WARNING: __main__: something is in warning mode
+2021-02-02 14:32:08,037: ERROR: __main__: An error has occured
+2021-02-02 14:32:08,037: CRITICAL: __main__: Critical issue
+2021-02-02 14:32:08,037: INFO: __main__: Information
+2021-02-02 14:32:08,037: INFO: __main__: Information
+2021-02-02 14:32:08,037: WARNING: __main__: something is in warning mode
+2021-02-02 14:32:08,037: WARNING: __main__: something is in warning mode
+2021-02-02 14:32:08,037: ERROR: __main__: An error has occured
+2021-02-02 14:32:08,037: ERROR: __main__: An error has occured
+2021-02-02 14:32:08,037: CRITICAL: __main__: Critical issue
+2021-02-02 14:32:08,037: CRITICAL: __main__: Critical issue

@@ -1,0 +1,25 @@
+
+02/02/21 06:46:44:PM: WARNING: root: sub:5 - 10= -5
+02/02/21 06:46:44:PM: WARNING: root: div:5 / 10 = 0.5
+02/02/21 06:46:44:PM: WARNING: root: add:5 + 10= 15
+02/02/21 06:46:44:PM: WARNING: root: mult:5 * 10 = 50
+02/02/21 07:11:07:PM: WARNING: root: sub:5 - 10= -5
+02/02/21 07:11:07:PM: WARNING: root: div:5 / 10 = 0.5
+02/02/21 07:11:07:PM: WARNING: root: add:5 + 10= 15
+02/02/21 07:11:07:PM: WARNING: root: mult:5 * 10 = 50
+02/02/21 07:12:44:PM: WARNING: root: sub:5 - 10= -5
+02/02/21 07:12:44:PM: WARNING: root: div:5 / 10 = 0.5
+02/02/21 07:12:44:PM: WARNING: root: add:5 + 10= 15
+02/02/21 07:12:44:PM: WARNING: root: mult:5 * 10 = 50
+02/02/21 07:16:02:PM: WARNING: root: sub:5 - 10= -5
+02/02/21 07:16:02:PM: WARNING: root: div:5 / 10 = 0.5
+02/02/21 07:16:02:PM: WARNING: root: add:5 + 10= 15
+02/02/21 07:16:02:PM: WARNING: root: mult:5 * 10 = 50
+2021-02-02 19:28:49,548: DEBUG: __main__: sub:5 - 10= -5
+2021-02-02 19:28:49,548: DEBUG: __main__: div:5 / 10 = 0.5
+2021-02-02 19:28:49,548: DEBUG: __main__: add:5 + 10= 15
+2021-02-02 19:28:49,548: DEBUG: __main__: mult:5 * 10 = 50
+2021-02-02 19:37:39,560: ERROR: __main__: tried to divided by zero
+2021-02-02 19:37:44,272: ERROR: __main__: tried to divided by zero
+2021-02-02 19:38:18,114: ERROR: __main__: tried to divided by zero
+2021-02-02 19:48:20,063: ERROR: __main__: tried to divided by zero

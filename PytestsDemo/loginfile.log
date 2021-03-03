@@ -1,0 +1,35 @@
+2021-02-02 14:43:03,431: DEBUG: root: A debug statement is executed 
+2021-02-02 14:43:03,431: INFO: root: Information
+2021-02-02 14:43:03,431: WARNING: root: something is in warning mode
+2021-02-02 14:43:03,431: ERROR: root: An error has occured
+2021-02-02 14:43:03,431: CRITICAL: root: Critical issue
+&m/02/21 02:43:23:PM: DEBUG: root: A debug statement is executed 
+&m/02/21 02:43:23:PM: INFO: root: Information
+&m/02/21 02:43:23:PM: WARNING: root: something is in warning mode
+&m/02/21 02:43:23:PM: ERROR: root: An error has occured
+&m/02/21 02:43:23:PM: CRITICAL: root: Critical issue
+&M/02/21 02:44:02:PM: DEBUG: root: A debug statement is executed 
+&M/02/21 02:44:02:PM: INFO: root: Information
+&M/02/21 02:44:02:PM: WARNING: root: something is in warning mode
+&M/02/21 02:44:02:PM: ERROR: root: An error has occured
+&M/02/21 02:44:02:PM: CRITICAL: root: Critical issue
+02/02/21 02:44:18:PM: DEBUG: root: A debug statement is executed 
+02/02/21 02:44:18:PM: INFO: root: Information
+02/02/21 02:44:18:PM: WARNING: root: something is in warning mode
+02/02/21 02:44:18:PM: ERROR: root: An error has occured
+02/02/21 02:44:18:PM: CRITICAL: root: Critical issue
+02/02/21 02:47:39:PM: DEBUG: root: A debug statement is executed 
+02/02/21 02:47:39:PM: INFO: root: Information
+02/02/21 02:47:39:PM: WARNING: root: something is in warning mode
+02/02/21 02:47:39:PM: ERROR: root: An error has occured
+02/02/21 02:47:39:PM: CRITICAL: root: Critical issue
+02/02/21 04:09:12:PM: DEBUG: root: A debug statement is executed 
+02/02/21 04:09:12:PM: INFO: root: Information
+02/02/21 04:09:12:PM: WARNING: root: something is in warning mode
+02/02/21 04:09:12:PM: ERROR: root: An error has occured
+02/02/21 04:09:12:PM: CRITICAL: root: Critical issue
+02/02/21 04:10:12:PM: DEBUG: root: A debug statement is executed 
+02/02/21 04:10:12:PM: INFO: root: Information
+02/02/21 04:10:12:PM: WARNING: root: something is in warning mode
+02/02/21 04:10:12:PM: ERROR: root: An error has occured
+02/02/21 04:10:12:PM: CRITICAL: root: Critical issue
