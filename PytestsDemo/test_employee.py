@@ -67,3 +67,15 @@ class TestEmployee(unittest.TestCase):
 
 if __name__ =="__main__":
     unittest.main()
+"""
+    print(emp_1.pay)
+    print(emp_3.fullname)
+    print(emp_1.fullname)
+    print(emp_1.email)
+    print(emp_1.pay)
+    emp_1.apply_raise()
+    print(emp_1.pay)
+    emp_2.apply_raise()
+    print(emp_2.pay)
+
+"""
